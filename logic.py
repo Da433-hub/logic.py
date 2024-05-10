@@ -1,6 +1,6 @@
 print ("This is a logical error file")
 
-#This file asks for address then prints full details
+#This file asks for your address then prints full details.
 
 name = (input ("Please enter your name:  "))
 surname = (input("Please enter your surname: "))
